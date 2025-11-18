@@ -29,6 +29,9 @@ Routes
 - `/posts` — Posts (fetches from JSONPlaceholder)
 - `/tasks` — Task Manager
 
+Deployed demo
+- https://taskmanagerreactvi.netlify.app/
+
 How to test the API page
 1. Open `/posts` in the browser after `npm run dev`.
 2. You should briefly see "Loading posts...", followed by a grid of posts.
